@@ -31,3 +31,11 @@ server.log
 # System files
 .DS_Store
 Thumbs.db
+
+# Credentials
+config/credentials/google-cloud-credentials.json
+*.pem
+*.key
+
+# Keep example files
+!*.example.json

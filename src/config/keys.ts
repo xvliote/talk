@@ -17,10 +17,3 @@ export const config: AppConfig = {
   }
 }
 
-// PlayHT API 相关的辅助函数
-// export const getPlayHTHeaders = () => ({
-//   'Authorization': `Bearer ${config.playHT.apiKey}`,
-//   'X-User-ID': config.playHT.userId,
-// })
-
-// export const getDefaultVoiceId = () => config.playHT.defaultVoiceId
